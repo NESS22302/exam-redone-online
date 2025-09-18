@@ -32,6 +32,13 @@ public class Employee{
     public boolean canDrive(){
         int age = calculateAge(2025);
         // to be completed
+        12.
+        get age
+        set age as 16 you van drive
+        print you can drive
+        if under 16
+        print the # of years left until you reach 16
+        then print you cant drive for # of years
     }
 
     /*
@@ -46,5 +53,6 @@ public class Employee{
      */
     public void paySalary(){
         // to be completed
+        11. to get pay salary you eed to set wage and set hourly wage then multiply wage hourly by hours worked to get salary
     }
 }
